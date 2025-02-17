@@ -2,7 +2,7 @@
 name: staj-basvuru
 about: Bu şablon, 2025 yılı için zorunlu ve gönüllü staj başvurularını standart bir
   formatta toplamak amacıyla oluşturulmuştur.
-title: "[STAJ] AD SOYAD [ALAN][STAJ YERİ][STAJ TİPİ][STAJ SÜRESİ]"
+title: "[STAJ] Ad Soyad [Alan][Staj Yeri][Staj Tipi][Staj Süresi][Dönem]"
 labels: ''
 assignees: ''
 
@@ -13,6 +13,7 @@ assignees: ''
 Aşağıdaki bilgileri eksiksiz doldurunuz. Staj başvurunuzun işleme alınması için **formatı değiştirmeyin**.  
 
 ---  
+
 #### 🔹 **Ad Soyad**  
 <!-- Adınızı ve soyadınızı girin -->  
 
@@ -33,9 +34,14 @@ Zorunlu / Gönüllü
 **Uzun Dönem:** 3-Ay / 6-Ay  
 ➡ **Benim tercihim:** `...`  
 
+#### 🔹 **Dönem** (Seçim yapın)  
+Kısa (Yaz) / Uzun (3-6 Ay)  
+➡ **Benim tercihim:** `...`  
+
 ---  
+
 📢 **Not:**  
 - Formata uygun olmayan başvurular otomatik olarak **kapatılacaktır**.  
 - Lütfen başvuru başlığını aşağıdaki **örnekler gibi** yazınız:  
-  - `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][kısa-4-hafta]`  
-  - `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][uzun-6-ay]`
+  - `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][kısa-4-hafta][kısa]`  
+  - `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][uzun-6-ay][uzun]`
