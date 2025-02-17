@@ -43,5 +43,5 @@ Kısa (Yaz) / Uzun (3-6 Ay)
 📢 **Not:**  
 - Formata uygun olmayan başvurular otomatik olarak **kapatılacaktır**.  
 - Lütfen başvuru başlığını aşağıdaki **örnekler gibi** yazınız:  
-  - `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][kısa-4-hafta][kısa]`  
-  - `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][uzun-6-ay][uzun]`
+  - `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][4-hafta][kısa]`  
+  - `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][6-ay][uzun]`
