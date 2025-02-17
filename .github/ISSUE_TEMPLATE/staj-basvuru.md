@@ -13,12 +13,11 @@ assignees: ''
 Aşağıdaki bilgileri eksiksiz doldurunuz. Staj başvurunuzun işleme alınması için **formatı değiştirmeyin**.  
 
 ---  
-
 #### 🔹 **Ad Soyad**  
 <!-- Adınızı ve soyadınızı girin -->  
 
 #### 🔹 **Alan** (Seçim yapın)  
-Mobil / Backend / Frontend / PM / QA / Game / Data-Science / Database / Embedded / Blockchain  
+Mobil / Backend / Frontend / PM / QA / Game / Data-Science / Database / Embedded / Blockchain / AI / Security  
 ➡ **Benim alanım:** `...`  
 
 #### 🔹 **Staj Yeri** (Seçim yapın)  
@@ -34,14 +33,9 @@ Zorunlu / Gönüllü
 **Uzun Dönem:** 3-Ay / 6-Ay  
 ➡ **Benim tercihim:** `...`  
 
-#### 🔹 **Dönem** (Seçim yapın)  
-Kısa (Yaz) / Uzun (3-6 Ay)  
-➡ **Benim tercihim:** `...`  
-
 ---  
-
 📢 **Not:**  
 - Formata uygun olmayan başvurular otomatik olarak **kapatılacaktır**.  
 - Lütfen başvuru başlığını aşağıdaki **örnekler gibi** yazınız:  
-  - `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][kısa-4-hafta][kısa]`  
-  - `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][uzun-6-ay][uzun]`
+  - `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][kısa-4-hafta]`  
+  - `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][uzun-6-ay]`
