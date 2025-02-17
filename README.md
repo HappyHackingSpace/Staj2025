@@ -13,8 +13,8 @@ Bu repo, zorunlu veya gönüllü staj yapmak isteyen öğrenciler ile stajyer ar
 
 ### Örnekler:
 
-- `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][4-hafta][kısa]`
-- `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][6-hafta][uzun]`
+- `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][4-hafta][kısa]`  
+- `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][6-ay][uzun]`
 
 ### Dikkat:
 
