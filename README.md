@@ -30,3 +30,9 @@ Bu repo, zorunlu veya gönüllü staj yapmak isteyen öğrenciler ile stajyer ar
 | Staj Tipi    | Zorunlu, Gönüllü                                                           |
 | Staj Süresi  | 4-Hafta, 6-Hafta                                                           |
 | Dönem        | Kısa (Yaz), Uzun (3-6 Ay)                                                  |
+
+
+--------
+<div align="center">
+made with ❤️ by the [Happy Hacking Space](https://happyhacking.space)
+</div>
