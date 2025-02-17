@@ -34,5 +34,5 @@ Bu repo, zorunlu veya gönüllü staj yapmak isteyen öğrenciler ile stajyer ar
 
 --------
 <div align="center">
-made with ❤️ by the [Happy Hacking Space](https://happyhacking.space)
+made with ❤️ by the Happy Hacking Space
 </div>
