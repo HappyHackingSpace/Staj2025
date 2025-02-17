@@ -8,40 +8,23 @@ assignees: ''
 
 ---
 
-### 📌 Staj Başvurusu  
+### Kişisel Bilgiler
 
-Aşağıdaki bilgileri eksiksiz doldurunuz. Staj başvurunuzun işleme alınması için **formatı değiştirmeyin**.  
+- **Ad Soyad:**
+- **Okul:**
+- **Bölüm ve Sınıf:**
+- **CV:** [Google Drive Linki veya PDF linki](#)
+- **Sigorta Durumu (Okul Tarafından Karşılanıyor Mu?):** (Evet/Hayır)
 
----  
+---
 
-#### 🔹 **Ad Soyad**  
-<!-- Adınızı ve soyadınızı girin -->  
+### Kendini Tanıt (İsteğe Bağlı)
 
-#### 🔹 **Alan** (Seçim yapın)  
-Mobil / Backend / Frontend / PM / QA / Game / Data-Science / Database / Embedded / Blockchain / AI / Security  
-➡ **Benim alanım:** `...`  
+Bu alanda kendini tanıtan kısa bir yazı yazabilirsin. İlgi alanların, kariyer hedeflerin ve seni motive eden unsurlar hakkında bilgi verebilirsin.
 
-#### 🔹 **Staj Yeri** (Seçim yapın)  
-Uzaktan / Yüzyüze  
-➡ **Benim tercihim:** `...`  
+---
 
-#### 🔹 **Staj Tipi** (Seçim yapın)  
-Zorunlu / Gönüllü  
-➡ **Benim tercihim:** `...`  
+### Teknik Yetenekler
 
-#### 🔹 **Staj Süresi** (Seçim yapın)  
-**Kısa Dönem:** 4-Hafta / 6-Hafta  
-**Uzun Dönem:** 3-Ay / 6-Ay  
-➡ **Benim tercihim:** `...`  
-
-#### 🔹 **Dönem** (Seçim yapın)  
-Kısa (Yaz) / Uzun (3-6 Ay)  
-➡ **Benim tercihim:** `...`  
-
----  
-
-📢 **Not:**  
-- Formata uygun olmayan başvurular otomatik olarak **kapatılacaktır**.  
-- Lütfen başvuru başlığını aşağıdaki **örnekler gibi** yazınız:  
-  - `[STAJ] Ozan Tekin [backend,frontend][uzaktan][zorunlu][4-hafta][kısa]`  
-  - `[STAJ] Hazar Bakir [data-science][yüzyüze][gönüllü][6-ay][uzun]`
+- **İlgilendiğin Alanlar:** (Programlama Dilleri, Teknolojiler, Framework’ler vb.)
+- **Deneyim ve Projeler:** (Öne çıkan projelerinizin detayları ve bağlantıları, açık kaynak katkılarınız vb.)
