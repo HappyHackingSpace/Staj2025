@@ -1,4 +1,4 @@
-# 🚀 Staj 2025
+## 🚀 Staj 2025
 
 Bu repo, zorunlu veya gönüllü staj yapmak isteyen öğrenciler ile stajyer arayan şirketleri bir araya getiren açık bir repository'dir.
 
@@ -25,10 +25,8 @@ Bu repo, zorunlu veya gönüllü staj yapmak isteyen öğrenciler ile stajyer ar
 
 | Alan        | Seçenekler                                                                 |
 |-------------|-----------------------------------------------------------------------------|
-| Çalışma Alanı | Mobile, Backend, Frontend, PM, QA, Game, Data-Science, Database, Embedded, Blockchain |
+| Çalışma Alanı | Mobile, Backend, Frontend, PM, QA, Game, Data-Science, Database, Embedded, Blockchain, AI, Security |
 | Staj Yeri    | Uzaktan, Yüzyüze                                                           |
 | Staj Tipi    | Zorunlu, Gönüllü                                                           |
 | Staj Süresi  | 4-Hafta, 6-Hafta                                                           |
 | Dönem        | Kısa (Yaz), Uzun (3-6 Ay)                                                  |
-
-
